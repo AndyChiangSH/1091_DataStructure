@@ -111,7 +111,7 @@ int traverse(struct TreeNode* ptr)
 		return 0;
 	}
 	
-	int l=traverse(ptr->left),r=traverse(ptr->right);
+	int l=traverse(ptr->left),r=traverse(ptr->right);	// 後序(postorder)走訪 
 	if(l==1 || r==1)	//l 和 r 只要其中一個為 1 -> 蓋，回傳 -1 
 	{
 		bNum++;
