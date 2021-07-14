@@ -306,7 +306,6 @@ long long movePoint(char ch)
 				}
 				mergeSum=(long long)mergeSum+(long long)((temp->sum)*(temp->dnode->num));	//合併值=合併值+(該點的累積值*該點的數量) 
 			}
-			
 			addQueue(temp->dnode,temp->sum);	//繼續往下跑的動點
 		}
 		free(temp);	//temp用不到，可以free掉了
