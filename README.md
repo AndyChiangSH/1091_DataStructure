@@ -11,6 +11,6 @@
 * [HW03](https://github.com/AndyChiangSH/1091_DataStructure/tree/master/HW03)
 * [HW04](https://github.com/AndyChiangSH/1091_DataStructure/tree/master/HW04)
 
-> 祝你資結不要被當www
+> 祝大家資結都不要被當www
 
 ![](https://i.imgur.com/5bevKEV.gif)
